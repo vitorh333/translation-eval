@@ -1,0 +1,360 @@
+{
+  "source": "Tier 1",
+  "translations": {
+    "fr": "Palier 1",
+    "de": "Rang 1",
+    "it": "Livello 1",
+    "pt-BR": "Nível 1",
+    "es-MX": "Nivel 1"
+  }
+}
+{
+  "source": "The more you unlock items, the more you will understand how they work!",
+  "translations": {
+    "fr": "Plus vous débloquez d'objets, mieux vous comprendrez comment ils fonctionnent !",
+    "de": "Je mehr Gegenstände du freischaltest, desto besser wirst du verstehen, wie sie funktionieren!",
+    "it": "Più oggetti sblocchi, più capirai come funzionano!",
+    "pt-BR": "Quanto mais itens você desbloquear, melhor entenderá como eles funcionam!",
+    "es-MX": "¡Cuantos más objetos desbloquees, mejor entenderás cómo funcionan!"
+  }
+}
+{
+  "source": "1",
+  "translations": {
+    "fr": "1",
+    "de": "1",
+    "it": "1",
+    "pt-BR": "1",
+    "es-MX": "1"
+  }
+}
+{
+  "source": "Crowned Quinn",
+  "translations": {
+    "fr": "Quinn couronnée",
+    "de": "Gekrönte Quinn",
+    "it": "Quinn incoronata",
+    "pt-BR": "Quinn Coroada",
+    "es-MX": "Quinn coronada"
+  }
+}
+{
+  "source": "650",
+  "translations": {
+    "fr": "650",
+    "de": "650",
+    "it": "650",
+    "pt-BR": "650",
+    "es-MX": "650"
+  }
+}
+{
+  "source": "The other cases, you can always use the in-game support!",
+  "translations": {
+    "fr": "Dans les autres cas, vous pouvez toujours utiliser le support en jeu !",
+    "de": "In anderen Fällen kannst du jederzeit den In-Game-Support nutzen!",
+    "it": "Negli altri casi, puoi sempre usare il supporto interno al gioco!",
+    "pt-BR": "Nos outros casos, você sempre pode usar o suporte do jogo!",
+    "es-MX": "En los demás casos, ¡siempre puedes usar el soporte del juego!"
+  }
+}
+{
+  "source": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/830bf23e-c691-44a8-8a59-20eba7239789.gif",
+  "translations": {
+    "fr": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/830bf23e-c691-44a8-8a59-20eba7239789.gif",
+    "de": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/830bf23e-c691-44a8-8a59-20eba7239789.gif",
+    "it": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/830bf23e-c691-44a8-8a59-20eba7239789.gif",
+    "pt-BR": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/830bf23e-c691-44a8-8a59-20eba7239789.gif",
+    "es-MX": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/830bf23e-c691-44a8-8a59-20eba7239789.gif"
+  }
+}
+{
+  "source": "Edna",
+  "translations": {
+    "fr": "Edna",
+    "de": "Edna",
+    "it": "Edna",
+    "pt-BR": "Edna",
+    "es-MX": "Edna"
+  }
+}
+{
+  "source": "Radar",
+  "translations": {
+    "fr": "Radar",
+    "de": "Radar",
+    "it": "Radar",
+    "pt-BR": "Radar",
+    "es-MX": "Radar"
+  }
+}
+{
+  "source": "💸Your {0} will expire soon!💸",
+  "translations": {
+    "fr": "💸Votre {0} expirera bientôt !💸",
+    "de": "💸Dein {0} läuft bald ab!💸",
+    "it": "💸Il tuo {0} scadrà a breve!💸",
+    "pt-BR": "💸Seu {0} expirará em breve!💸",
+    "es-MX": "💸¡Tu {0} expirará pronto!💸"
+  }
+}
+{
+  "source": "Weapons",
+  "translations": {
+    "fr": "Armes",
+    "de": "Waffen",
+    "it": "Armi",
+    "pt-BR": "Armas",
+    "es-MX": "Armas"
+  }
+}
+{
+  "source": "Happy Thanksgiving!",
+  "translations": {
+    "fr": "Joyeux Thanksgiving !",
+    "de": "Frohes Thanksgiving!",
+    "it": "Buon Ringraziamento!",
+    "pt-BR": "Feliz Dia de Ação de Graças!",
+    "es-MX": "¡Feliz Día de Acción de Gracias!"
+  }
+}
+{
+  "source": "You can check your version by tapping on the game settings button, on the right upper corner, and it will be     there on the bottom.",
+  "translations": {
+    "fr": "Vous pouvez vérifier votre version en appuyant sur le bouton des paramètres du jeu, dans le coin supérieur droit, et elle s'affichera     en bas.",
+    "de": "Du kannst deine Version überprüfen, indem du oben rechts auf die Schaltfläche für die Spieleinstellungen tippst; sie wird     dort unten angezeigt.",
+    "it": "Puoi controllare la tua versione toccando il pulsante delle impostazioni di gioco, nell'angolo in alto a destra, e la troverai     lì in basso.",
+    "pt-BR": "Você pode verificar sua versão tocando no botão de configurações do jogo, no canto superior direito, e ela estará     lá na parte inferior.",
+    "es-MX": "Puedes consultar tu versión tocando el botón de ajustes del juego, en la esquina superior derecha, y aparecerá     en la parte inferior."
+  }
+}
+{
+  "source": "Tony can send Gigi the Oxpecker to go to another animal and the bird applies Tony’s passive to the target.",
+  "translations": {
+    "fr": "Tony peut envoyer Gigi le pique-bœuf vers un autre animal et l'oiseau applique le passif de Tony à la cible.",
+    "de": "Tony kann Gigi den Madenhacker zu einem anderen Tier schicken, und der Vogel wendet Tonys Passiv auf das Ziel an.",
+    "it": "Tony può inviare Gigi la bufaga verso un altro animale e l'uccello applica l'abilità passiva di Tony al bersaglio.",
+    "pt-BR": "Tony pode enviar Gigi, o pica-boi, para outro animal, e o pássaro aplica a passiva de Tony ao alvo.",
+    "es-MX": "Tony puede enviar a Gigi el picabueyes a otro animal y el pájaro aplica la pasiva de Tony al objetivo."
+  }
+}
+{
+  "source": "3 Day Challenge- Day 1!",
+  "translations": {
+    "fr": "Défi de 3 jours - Jour 1 !",
+    "de": "3-Tage-Herausforderung – Tag 1!",
+    "it": "Sfida di 3 giorni - Giorno 1!",
+    "pt-BR": "Desafio de 3 Dias - Dia 1!",
+    "es-MX": "¡Desafío de 3 días - Día 1!"
+  }
+}
+{
+  "source": "Bali",
+  "translations": {
+    "fr": "Bali",
+    "de": "Bali",
+    "it": "Bali",
+    "pt-BR": "Bali",
+    "es-MX": "Bali"
+  }
+}
+{
+  "source": "LEVEL",
+  "translations": {
+    "fr": "NIVEAU",
+    "de": "LEVEL",
+    "it": "LIVELLO",
+    "pt-BR": "NÍVEL",
+    "es-MX": "NIVEL"
+  }
+}
+{
+  "source": "5600",
+  "translations": {
+    "fr": "5600",
+    "de": "5600",
+    "it": "5600",
+    "pt-BR": "5600",
+    "es-MX": "5600"
+  }
+}
+{
+  "source": "Anti-guard Weapons",
+  "translations": {
+    "fr": "Armes anti-garde",
+    "de": "Anti-Wächter-Waffen",
+    "it": "Armi anti-guardia",
+    "pt-BR": "Armas anti-guarda",
+    "es-MX": "Armas antiguardia"
+  }
+}
+{
+  "source": "Reward",
+  "translations": {
+    "fr": "Récompense",
+    "de": "Belohnung",
+    "it": "Riccompensa",
+    "pt-BR": "Recompensa",
+    "es-MX": "Recompensa"
+  }
+}
+{
+  "source": "Lore",
+  "translations": {
+    "fr": "Histoire",
+    "de": "Lore",
+    "it": "Lore",
+    "pt-BR": "História",
+    "es-MX": "Historia"
+  }
+}
+{
+  "source": "There are five things you must take into account when opening toolboxes:",
+  "translations": {
+    "fr": "Il y a cinq choses que vous devez prendre en compte lors de l'ouverture des boîtes à outils :",
+    "de": "Es gibt fünf Dinge, die du beim Öffnen von Werkzeugkisten beachten musst:",
+    "it": "Ci sono cinque cose da tenere in considerazione quando apri le cassette degli attrezzi:",
+    "pt-BR": "Há cinco coisas que você deve levar em conta ao abrir caixas de ferramentas:",
+    "es-MX": "Hay cinco cosas que debes tener en cuenta al abrir cajas de herramientas:"
+  }
+}
+{
+  "source": "37500",
+  "translations": {
+    "fr": "37500",
+    "de": "37500",
+    "it": "37500",
+    "pt-BR": "37500",
+    "es-MX": "37500"
+  }
+}
+{
+  "source": "Zoo Cup",
+  "translations": {
+    "fr": "Coupe du Zoo",
+    "de": "Zoo-Cup",
+    "it": "Coppa dello Zoo",
+    "pt-BR": "Copa do Zoo",
+    "es-MX": "Copa del Zoo"
+  }
+}
+{
+  "source": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/cf8b854d-c3a2-4cd0-a10d-8d2b6fe63852.png",
+  "translations": {
+    "fr": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/cf8b854d-c3a2-4cd0-a10d-8d2b6fe63852.png",
+    "de": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/cf8b854d-c3a2-4cd0-a10d-8d2b6fe63852.png",
+    "it": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/cf8b854d-c3a2-4cd0-a10d-8d2b6fe63852.png",
+    "pt-BR": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/cf8b854d-c3a2-4cd0-a10d-8d2b6fe63852.png",
+    "es-MX": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/cf8b854d-c3a2-4cd0-a10d-8d2b6fe63852.png"
+  }
+}
+{
+  "source": "Halloween Showdown!",
+  "translations": {
+    "fr": "Affrontement d'Halloween !",
+    "de": "Halloween-Showdown!",
+    "it": "Resa dei conti di Halloween!",
+    "pt-BR": "Confronto de Halloween!",
+    "es-MX": "¡Duelo de Halloween!"
+  }
+}
+{
+  "source": "Mage",
+  "translations": {
+    "fr": "Mage",
+    "de": "Magier",
+    "it": "Mago",
+    "pt-BR": "Mago",
+    "es-MX": "Mago"
+  }
+}
+{
+  "source": "Su-47 Berkut",
+  "translations": {
+    "fr": "Su-47 Berkut",
+    "de": "Su-47 Berkut",
+    "it": "Su-47 Berkut",
+    "pt-BR": "Su-47 Berkut",
+    "es-MX": "Su-47 Berkut"
+  }
+}
+{
+  "source": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-t.png 1x, https://d2duuy    9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-2t.png 1.5x",
+  "translations": {
+    "fr": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-t.png 1x, https://d2duuy    9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-2t.png 1.5x",
+    "de": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-t.png 1x, https://d2duuy    9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-2t.png 1.5x",
+    "it": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-t.png 1x, https://d2duuy    9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-2t.png 1.5x",
+    "pt-BR": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-t.png 1x, https://d2duuy    9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-2t.png 1.5x",
+    "es-MX": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-t.png 1x, https://d2duuy    9yo5pldo.cloudfront.net/tfghelp/8e88ffc6-7a85-4343-8cbe-fda9a204118c-2t.png 1.5x"
+  }
+}
+{
+  "source": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/36f5bf15-193b-42e0-9c64-f13ac5dd82c0.gif",
+  "translations": {
+    "fr": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/36f5bf15-193b-42e0-9c64-f13ac5dd82c0.gif",
+    "de": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/36f5bf15-193b-42e0-9c64-f13ac5dd82c0.gif",
+    "it": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/36f5bf15-193b-42e0-9c64-f13ac5dd82c0.gif",
+    "pt-BR": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/36f5bf15-193b-42e0-9c64-f13ac5dd82c0.gif",
+    "es-MX": "https://d2duuy9yo5pldo.cloudfront.net/tfghelp/36f5bf15-193b-42e0-9c64-f13ac5dd82c0.gif"
+  }
+}
+{
+  "source": "Primal Instinct - <b>Slow Digestion</b>",
+  "translations": {
+    "fr": "Instinct primaire - <b>Digestion lente</b>",
+    "de": "Urinstinkt - <b>Langsame Verdauung</b>",
+    "it": "Istinto primordiale - <b>Digestione lenta</b>",
+    "pt-BR": "Instinto Primal - <b>Digestão Lenta</b>",
+    "es-MX": "Instinto primigenio - <b>Digestión lenta</b>"
+  }
+}
+{
+  "source": "So you must have noticed that the following items are <u>not in the game anymore</u>:",
+  "translations": {
+    "fr": "Vous avez donc dû remarquer que les objets suivants ne font <u>plus partie du jeu</u> :",
+    "de": "Du hast also sicher bemerkt, dass die folgenden Gegenstände <u>nicht mehr im Spiel sind</u>:",
+    "it": "Quindi avrai notato che i seguenti oggetti <u>non sono più presenti nel gioco</u>:",
+    "pt-BR": "Então você deve ter notado que os seguintes itens <u>não estão mais no jogo</u>:",
+    "es-MX": "Así que habrás notado que los siguientes objetos <u>ya no están en el juego</u>:"
+  }
+}
+{
+  "source": "1000",
+  "translations": {
+    "fr": "1000",
+    "de": "1000",
+    "it": "1000",
+    "pt-BR": "1000",
+    "es-MX": "1000"
+  }
+}	
+{
+  "source": "Faye, the Handy Magician",
+  "translations": {
+    "fr": "Faye, la magicienne habile",
+    "de": "Faye, die geschickte Magierin",
+    "it": "Faye, l'abile maga",
+    "pt-BR": "Faye, a Maga Habilidosa",
+    "es-MX": "Faye, la maga habilidosa"
+  }
+}
+{
+  "source": "Legendary weapons have the same sharing rules they currently have (you don't share them with teammates)",
+  "translations": {
+    "fr": "Les armes légendaires suivent les mêmes règles de partage qu'actuellement (vous ne les partagez pas avec vos coéquipiers)",
+    "de": "Für legendäre Waffen gelten dieselben Teilungsregeln wie derzeit (du teilst sie nicht mit Teammitgliedern)",
+    "it": "Le armi leggendarie hanno le stesse regole di condivisione attuali (non le condividi con i compagni di squadra)",
+    "pt-BR": "As armas lendárias têm as mesmas regras de compartilhamento que têm atualmente (você não as compartilha com seus colegas de equipe)",
+    "es-MX": "Las armas legendarias tienen las mismas reglas de compartición que tienen actualmente (no las compartes con tus compañeros de equipo)"
+  }
+}
+{
+  "source": "This game mode will be available for all players that have already reached <b>700 trophies on the Leagues co    unt.</b>",
+  "translations": {
+    "fr": "Ce mode de jeu sera disponible pour tous les joueurs ayant déjà atteint <b>700 trophées au compteur des ligues.</b>",
+    "de": "Dieser Spielmodus wird für alle Spieler verfügbar sein, die bereits <b>700 Trophäen in der Ligawertung erreicht haben.</b>",
+    "it": "Questa modalità di gioco sarà disponibile per tutti i giocatori che hanno già raggiunto <b>700 trofei nel conteggio delle leghe.</b>",
+    "pt-BR": "Este modo de jogo estará disponível para todos os jogadores que já alcançaram <b>700 troféus na contagem das ligas.</b>",
+    "es-MX": "Este modo de juego estará disponible para todos los jugadores que ya hayan alcanzado <b>700 trofeos en el conteo de las ligas.</b>"
+  }
+}
