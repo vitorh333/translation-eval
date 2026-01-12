@@ -1,0 +1,5 @@
+.RData
+.Rhistory
+Rplots.pdf
+.venv/
+graphs/*.pdf
